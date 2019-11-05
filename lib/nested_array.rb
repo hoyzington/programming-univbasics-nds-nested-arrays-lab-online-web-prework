@@ -23,20 +23,20 @@ end
 
 def array_literal_matrix
   array_literal_matrix = [
-    ENNET_HOUSE[
+    ENNET_HOUSE(
       "Don Gately",
       "Joelle van Dyne",
       "Pat M.",
       "Kate Gompert",
       "Bruce Green"
-    ],
-    ENFIELD_TENNIS_ACADEMY[
+    ),
+    ENFIELD_TENNIS_ACADEMY(
       "Hal Incandenza",
       "Lyle",
       "Gerhard Schtitt",
       "Mario Incandenza",
       "Michael Pemulis"
-    ]
+    )
   ]
   array_literal_matrix.sort
 end
