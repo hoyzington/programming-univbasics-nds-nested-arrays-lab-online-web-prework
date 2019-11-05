@@ -26,7 +26,6 @@ def array_literal_matrix
     ENNET_HOUSE,
     ENFIELD_TENNIS_ACADEMY
     ]
-  ]
   array_literal_matrix.sort
 end
 
